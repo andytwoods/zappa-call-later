@@ -1,0 +1,4 @@
+Django>=1.10.5
+python-dateutil>=2.6.0
+django-picklefield>=1.0.0
+zappa>=0.43.1
